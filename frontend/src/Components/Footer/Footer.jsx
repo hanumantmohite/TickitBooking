@@ -10,7 +10,7 @@ const Footer = () => {
         >
           © 2022 Copyright:
           <a className='text-Black' href='/'>
-            Krishna
+            Hanumant
           </a>
         </div>
       </footer>
